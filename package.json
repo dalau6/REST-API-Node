@@ -1,0 +1,31 @@
+{
+  "name": "REST-API-Node",
+  "version": "1.0.0",
+  "description": "A simple, secure Node.js REST API boilerplate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalau6/REST-API-Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalau6/REST-API-Node/issues"
+  },
+  "homepage": "https://github.com/dalau6/REST-API-Node#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.28",
+    "mongoose": "^5.9.7",
+    "node-uuid": "^1.4.8",
+    "swagger-ui-express": "^4.1.4",
+    "sync-request": "^6.1.0"
+  }
+}
