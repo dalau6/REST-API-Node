@@ -1,6 +1,6 @@
 {
-    "firstName" : "Marcos",
-    "lastName" : "Silva",
-    "email" : "marcos.henrique@toptal.com",
-    "password" : "s3cr3tp4sswo4rd"
- }
+  "firstName": "Marcos",
+  "lastName": "Silva",
+  "email": "marcos.henrique@toptal.com",
+  "password": "s3cr3tp4sswo4rd"
+}
